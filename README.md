@@ -1,5 +1,5 @@
 - 👋 Hi, I go by Silenth.
-- 👀 I’m interested in machiene learning.
+- 👀 I’m interested in machine learning.
 - 🔨 I'm working on this right now.
 - 🌱 I’m currently learning whatever I need to be learning in order to achieve my goals.
 - 📫 You can reach me quickly through discord, but if you want a slightly more professional response I suggest emailing me at **contact@silenth.dev**
