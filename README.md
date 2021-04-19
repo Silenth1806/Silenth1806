@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Silenth1806
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I go by Silenth.
+- 👀 I’m interested in machiene learning.
+- 🔨 I'm working on this right now.
+- 🌱 I’m currently learning whatever I need to be learning in order to achieve my goals.
+- 📫 You can reach me quickly through discord, but if you want a slightly more professional response I suggest emailing me at **contact@silenth.dev**
 
 <!---
 Silenth1806/Silenth1806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
