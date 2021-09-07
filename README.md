@@ -1,7 +1,5 @@
 - 👋 Hi, I go by Silenth.
-- 👀 I’m interested in machine learning.
-- 🔨 Idk
-- 🌱 I’m currently learning whatever I need to achieve my goals.
+- 👀 I’m interested in backend and multiplayer gamedev, but will learn pretty much anything.
 - 📫 You can reach me quickly through discord @ **silenth#3439**, but if you want a slightly more professional response I suggest emailing me at **contact@silenth.dev**
 
 <!---
