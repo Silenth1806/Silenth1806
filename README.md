@@ -1,6 +1,6 @@
 - 👋 Hi, I go by Silenth.
 - 👀 I do a lot of different things.
-- 📫 You can reach me quickly through discord @ **silenth#9046**
+- 📫 You can reach me quickly through discord @ **slnth**
 <!-- - , but if you want a slightly more professional response I suggest emailing me at **contact@silenth.dev** -->
 
 <!---
