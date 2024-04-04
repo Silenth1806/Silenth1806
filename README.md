@@ -1,7 +1,4 @@
-- 👋 Hi, I go by Silenth.
-- 👀 I do a lot of different things.
-- 📫 You can reach me quickly through discord @ **slnth**
-<!-- - , but if you want a slightly more professional response I suggest emailing me at **contact@silenth.dev** -->
+- 👀 Alive
 
 <!---
 Silenth1806/Silenth1806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
